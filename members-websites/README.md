@@ -9,9 +9,9 @@ This director will contain the code for members who want to gain experience util
 ####Requirements:
 <ol>
   <li> A unix based computer. (Linux or OSX) </li>
-  <li>Jekyll installed.  <a href="https://jekyllrb.com/docs/home/"> Jekyll Documentation...</a> </li>
+  <li>Jekyll installed. (For local development)  <a href="https://jekyllrb.com/docs/home/"> Jekyll Documentation...</a> </li>
   <li> Git utility </li>
-  <li> CBDL website repo pulled locally</li>
+  <li> Template repo pulled locally</li>
 </ol>
 
 #### Starting Jekyll
