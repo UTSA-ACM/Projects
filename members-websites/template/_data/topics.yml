@@ -1,10 +1,8 @@
-- title: Sample text
+- title: About Me
   description: > # this means to ignore newlines until "image:"
-      Write an awesome description for your new site here. You can edit this
-      line in _config.yml. It will appear in your document head meta (for
-      Google search results) and in your feed.xml site description.
+      Tell everyone about myself and how cool I am.
   image:  glyphicon glyphicon-user
-  link:  href="#"
+  link:  href="about-me.html"
 
 - title: External Page
   description: >
